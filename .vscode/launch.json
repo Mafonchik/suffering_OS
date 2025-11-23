@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/mafonchik/suffering_OS/lab1",
-      "program": "/home/mafonchik/suffering_OS/lab1/build/Debug/outDebug",
+      "cwd": "/home/mafonchik/suffering_OS",
+      "program": "/home/mafonchik/suffering_OS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
